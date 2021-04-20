@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RPS", "RPS.pyproj", "{0CC1296A-1270-4518-BE5A-CBE21B3FED2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CC1296A-1270-4518-BE5A-CBE21B3FED2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC1296A-1270-4518-BE5A-CBE21B3FED2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7257B6D4-2F83-4AEF-B993-0747686FE01E}
+	EndGlobalSection
+EndGlobal
